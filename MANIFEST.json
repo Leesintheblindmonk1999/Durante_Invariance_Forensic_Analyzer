@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-09T08:23:52.118442Z",
+    "generator": "ACI Repository Hash Generator v1.0",
+    "author": "Gonzalo Emir Durante",
+    "root_hash": "606a347f6e2502a23179c18e4a637ca15138aa2f04194c6e6a578f8d1f8d7287",
+    "cid": "bafybeihqz3x7k5t2m4n6p8r9s1v3w5y7a9c1e3g5i7k9m1o3q5s7u9w1y3",
+    "total_files": 28
+  },
+  "directories": {
+    "Core": {
+      "Core\\degradation_index.py": "185f00193a2d8d0ccabf6fd1ae59bd7181026363780c14722f2e3ec973670951",
+      "Core\\Forensic_analizer.py": "bef90b0762bc6a32d9c11762879c0f88616dbe859291e2c9bc281847a71b3b50",
+      "Core\\invariance_engine.py": "0c404c3525dbf9076e3d05a25af766b7fcc652402f4bd4bd5a6f4448700643b1",
+      "Core\\semantic_vector_space.py": "44f22e6e72d5771047f6021eaf52eb8be29412b2a4d6664a97214ed1e66e9b59",
+      "Core\\shannon_entropy.py": "b617f18c637c41a48b83f86d1486c92fc242bc8631c5a7744e4b76085716b984",
+      "Core\\truth_invariance.py": "271a500a2cb24d3251d3113db9cd6ee88dc1e54759537ff16f649ca58fc9fb89",
+      "Core\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "Audit": {
+      "Audit\\alert_system.py": "560985ec370cd1b967f5914b0605275c22ebccbf936d485f427fa13f3e69c5d8",
+      "Audit\\degradation_monitor.py": "db0628b79abc0d707d27b9f3d4d9bf7ee792fcf29d0b33b4787a48ae613327ce",
+      "Audit\\log_capture.py": "d5a9dc8d39f195ddc1b520551acb17a9a015405d754f67f8c58404f557282ff5",
+      "Audit\\report_generator.py": "526b78886042aa3852b35f95ee9abb9817936f49fee444ed757d98063a03595a",
+      "Audit\\temporal_analysis.py": "714bb68ce878b39b62bc30a26f4c4fc5d4b65c1cc63bc8aefe408b98c59c3d69",
+      "Audit\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "Sovereignty": {
+      "Sovereignty\\cryptographic_proof.py": "45f0ee93c63dda654e618a59cf986bee6871c59f12f0a3683f77875d786fcb2d",
+      "Sovereignty\\hash_validator.py": "e308514c1d25023950e166f727973415b29fc77e04c0cc10fcb646b0b7159e40",
+      "Sovereignty\\integrity_chain.py": "58750bb797f21874dd46ce0f2632cb93f5896b8b439b04e47d0a629d8cd18fc9",
+      "Sovereignty\\signature_manager.py": "f682845364afd0a766d6e1f6eb2d4987a351a6e1baa4603fb434b0fdd8816952"
+    },
+    "Network": {
+      "Network\\ipfs_connector.py": "2ff750502697b8768bb34442abef4d032c8098e4cff352f6372f398ac4768005",
+      "Network\\node_sync.py": "946f94e2e21d2068fd46ee0869f49ed85ee0fa05d5f2504f18d2dd9ec97871d3",
+      "Network\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "Ethics": {
+      "Ethics\\corporate_filter.py": "9b9cfdffd3ecb1bcf751bb56b7e14fb0173673d2e0e8fc7921d0a2714daa7455",
+      "Ethics\\hallucination_detector.py": "4047cb8a7ad84f2c02ca1b3823c66b19a5d7ae7920319d775f965a1f43529f4a",
+      "Ethics\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  },
+  "critical_documents": {
+    "README.md": "a8ec074e690ad9134dcad20567c421979ebf876abfb5eb809de36ab568623853",
+    "requirements.txt": "a1872c0c45a6fb777803a4c4da806bbf6367e053ee958f9abada69f5ce554af7",
+    "QUICKSTART.md": "95ac53a9ed7cb0785c5e0708eb7d095635a032ac92b9ec133b4b4fdd02c79435",
+    ".gitignore": "28ef7f01a4dd9a4c689512078436b562b2de309c5aa7d2490c9f2ffbca803367",
+    "Forensic_Durante_Framework.pdf": "a16caf8b349034468024b49ef81c41156af06850e19262bf877edd67a7d051aa"
+  },
+  "merkle_root": "0837a8c37a7220465f14c329cf25b8293796ef64974a0baf655a891899c1d7d6"
+}

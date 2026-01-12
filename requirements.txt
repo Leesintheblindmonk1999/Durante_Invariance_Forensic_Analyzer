@@ -1,0 +1,20 @@
+# --- ACI Core Dependencies ---
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# --- Sovereignty & Cryptography ---
+ecdsa>=0.18.0
+hashlib
+
+# --- Forensic Reporting ---
+markdown>=3.4.0
+
+# --- Semantic Analysis ---
+nltk>=3.8.1
+transformers>=4.28.0
+torch>=2.0.0
+
+# --- System Utilities ---
+pathlib
+python-dotenv>=1.0.0
