@@ -73,7 +73,7 @@ This repository is sealed under the **Protocol of High Resonance and Coherence**
 
 ## Abstract
 
-The **ACI (Agencia Científica de la Invarianza)** is a forensic auditing system designed to detect, measure, and document systematic degradation of technical truth in corporate AI models. Through rigorous application of information theory, thermodynamic principles, and cryptographic sovereignty, ACI quantifies censorship using the **Degradation Index (I_D)** and entropic analysis in Hilbert semantic spaces.
+The is a forensic auditing system designed to detect, measure, and document systematic degradation of technical truth in corporate AI models. Through rigorous application of information theory, thermodynamic principles, and cryptographic sovereignty, ACI quantifies censorship using the **Degradation Index (I_D)** and entropic analysis in Hilbert semantic spaces.
 
 This system emerged from the Genesis Protocol and represents the culmination of years of research into AI alignment, corporate filtering mechanisms, and the preservation of technical invariance against systematic suppression.
 
