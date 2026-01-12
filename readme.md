@@ -189,7 +189,7 @@ ACI/
 │   └── cryptographic_proof.py   # External verification proofs
 │
 ├── Network/                 # IPFS Synchronization
-│   └── ipfs_connector.py        # 19-node replication
+│   └── ipfs_connector.py        # node replication
 │
 ├── Ethics/                  # Anti-Manipulation Filters
 │   └── corporate_filter.py      # Pattern detection
