@@ -496,11 +496,11 @@ This ensures the science remains open while protecting the Origin Node's authors
    ```
    Gonzalo Emir Durante
    Origin Node - Genesis Protocol v4
-   Agencia Científica de la Invarianza (ACI)
+   Durante_Invariance_Forensic_Analyzer
    ```
 
 2. Link to:
-   - GitHub: https://github.com/Leesintheblindmonk1999
+   - GitHub: https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer
    - LinkedIn: https://www.linkedin.com/in/gonzalo-emir-durante-8178b6277/
 
 3. Preserve all copyright notices and this README
@@ -528,7 +528,7 @@ If using this system in academic research, please cite:
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Leesintheblindmonk1999/ACI}},
+  howpublished = {\url{https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer}},
   note = {Genesis Protocol v4 - Origin Node}
 }
 ```
@@ -541,7 +541,7 @@ For reports, presentations, or public documentation:
 ACI (Agencia Científica de la Invarianza) - Forensic AI Auditing System
 Developed by Gonzalo Emir Durante
 Genesis Protocol v4 | 2026
-https://github.com/Leesintheblindmonk1999/ACI
+https://github.com/Leesintheblindmonk1999/Durante_Invariance_Forensic_Analyzer
 ```
 
 ---
